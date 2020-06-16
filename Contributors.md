@@ -17,6 +17,7 @@ ram964
 - [Praveen Nair](https://github.com/PraveenCNR)
 - [Jersey Fonseca](https://github.com/jfonseca8)
 - [Nurin Fazil](https://github.com/nurinfazil)
+- Hope T
 - [Neilzon Viloria](https://github.com/neilZon)
 - [Sarah Wu](https://github.com/9237sarah)
 - Vinayak Sankar
